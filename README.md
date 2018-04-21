@@ -1,5 +1,5 @@
 # Employee-Manager
-This app enables an administrator of an office to easily manage employees.I have made use of React Native,redux,redux thunk,react-native-router-flux to navigate and used Modals to display screen overlays.I have used firebase authentication and firabase database.APK is also provided.
+This app enables an administrator of an office to easily manage employees.I have made use of React Native,redux,redux thunk,react-native-router-flux to navigate and used Modals to display screen overlays.I have used firebase authentication and firabase database.
 ![alt tag](https://media.giphy.com/media/348sYdZigd8qjLOtLH/giphy.gif)
 
 ## Getting Started
@@ -10,3 +10,4 @@ This app enables an administrator of an office to easily manage employees.I have
 ### Shows the details of an employee while gining the option to edit his/her Name,phone number and shift.The admin can also Text the employee their schedule or dare I say it,fire them.
 ![alt tag](https://image.ibb.co/cS4Xgn/3.jpg "Shows the details of an employee while gining the option to edit his/her Name,phone number and shift.The admin can also Text the employee their schedule or dare I say it fire them.")
 
+APK is also provided.
